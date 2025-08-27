@@ -93,10 +93,11 @@ Mozilla Developer Network. (2023). CSS: Cascading Style Sheets. https://develope
 Smith, J. (2020). Web Development Essentials. Tech Press. 
 W3Schools. (2023). HTML Tutorial. https://www.w3schools.com/html/ (Accessed: 15 October 2023). 
 
-https://github.com/P6000/ASIGNMENT/new/master
+
+Wbsite screenshot
+Screenshot_27-8-2025_83431_.jpeg
+
  
 
  
-About Us: This page will detail Daily Grand's mission, vision, and history, helping visitors understand the organization’s purpose and values. 
 
-News Section: Articles will be categorized into sections such as Local News, Lifestyle, Health, and Events, allowing users to easily find content that interests them. 
