@@ -72,9 +72,15 @@ Programming Languages and Frameworks:
 7 Timeline and Milestones 
 Project Timeline: 
 .Week 1: Research and planning, including gathering content and defining the website structure. 
+
 .Week 2: Design wireframes and gather content from various sources, including interviews and community feedback. 
-.Week 3: Develop the HTML structure for the website, ensuring that all pages are linked correctly. Implement CSS styling and JavaScript .functionality to enhance the user experience also submitted first proposal. 
+
+.Week 3: Develop the HTML structure for the website, ensuring that all pages are linked correctly. Implement CSS styling and JavaScript 
+
+.functionality to enhance the user experience also submitted first proposal. 
+
 .Week 4: Conduct thorough testing and debugging to ensure cross-browser compatibility and fix any issues. 
+
 .Week 5: Final review and submission of the project, including all documentation and the GitHub repository link. 
 
  8. Estimated Budget 
