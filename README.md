@@ -113,15 +113,20 @@ The estimated budget for this project is as follows:
 1. ## External CSS Stylesheet
 
 -Created style.css and linked to all HTML pages (Mozilla Developer Network, 2023; W3Schools, 2023).
-
 -Applied CSS reset for consistent styling across browsers (Mozilla Developer Network, 2023; W3Schools, 2023).
-2. ## Base Styling
 
--Set font-family, font-size, line-height, colors, and background (Mozilla Developer Network, 2023).
+2. ## Base Styling
+   - Applied green colour scheme.  
+   - Updated typography (font family, size, weight, line-height).  
+   - Flexbox layout for header, nav, and footer.  
+   - Added spacing, borders, shadows for readability.  
+  (Mozilla Developer Network, 2023).
 
 3. ## Header & Navigation
 
 -Added hover and focus effects for accessibility (Mozilla Developer Network, 2023).
+- Fixed <nav> menu for all pages.  
+
 
 4. ## Typography
 
@@ -150,14 +155,26 @@ The estimated budget for this project is as follows:
 -Consistent colors, text alignment, and padding applied (Mozilla Developer Network, 2023).
 
 9. ## Responsive Design
+   - Media queries for desktop, tablet, mobile.  
+   - Layout adapts seamlessly to all screen sizes.  
+   - Font sizes and spacing adjust using relative units.  
+   - Images are responsive using max-width and height:auto.  
+   -Adjusted navigation, main content, article padding, font size, and images for smaller screens.
+(Mozilla Developer Network, 2023).
 
--Media queries implemented for tablet (≤992px) and mobile (≤600px) (Mozilla Developer Network, 2023; W3Schools, 2023).
+  9. ## Pseudo-Classes
+   - Hover effects for nav links and buttons.  
 
--Adjusted navigation, main content, article padding, font size, and images for smaller screens.
 
 10. ## Testing
-
 Verified all pages on multiple screen sizes using browser developer tools (Mozilla Developer Network, 2023).
+
+11. ## GitHub Commits
+   - Descriptive commit messages recorded.  
+
+12. ## References
+   - Added credible sources (see below).  
+
 
 11. ## Website screenshot
 
@@ -186,24 +203,22 @@ Screenshot (Mobile)
 
 ## References
 
-References
 
-Brown, L. (2021). The State of Local News in 2021. News Research Institute. Available at: https://www.newsresearchinstitute.org/reports/state-of-local-news
+1. Brown, L. (2021). The State of Local News in 2021. News Research Institute. Available at: https://www.newsresearchinstitute.org/reports/state-of-local-news
  (Accessed: 23 August 2025).
 
-Johnson, A. (2022). 'The Importance of Local News', Community Journalism, 5(2), pp. 45-50. Available at: https://www.communityjournalism.com/articles/importance-of-local-news
+2. Johnson, A. (2022). 'The Importance of Local News', Community Journalism, 5(2), pp. 45-50. Available at: https://www.communityjournalism.com/articles/importance-of-local-news
  (Accessed: 23 August 2025).
 
-Mozilla Developer Network. (2023). CSS: Cascading Style Sheets. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS
+3. Mozilla Developer Network. (2023). CSS: Cascading Style Sheets. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS
  (Accessed: 24 August 2025; 25 September 2025).
 
-Smith, J. (2020). Web Development Essentials. Tech Press.
+4. Smith, J. (2020). Web Development Essentials. Tech Press.
 
-W3Schools. (2023). HTML and CSS Tutorials. Available at: https://www.w3schools.com/html/
+5. W3Schools. (2023). HTML and CSS Tutorials. Available at: https://www.w3schools.com/html/
  (Accessed: 26 August 2025 ; 25 September 2025).
 
 
 /P6000/ASIGNMENT/tree/main
 
 
-/P6000/ASIGNMENT/tree/main
