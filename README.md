@@ -49,12 +49,12 @@ Empowering the Nation is a community-driven skills development initiative based 
 
 ## 5. Wireframes
 
-## 6. Screenshots (Desktop & Mobile)
-1. Homepage - `homepage.png`  
-2. About Us - `aboutus.png`  
-3. Courses - `courses.png`  
-4. Fee Calculator - `calculator.png`  
-5. Contacts - `contacts.png`  
+## 6. Screenshots Desktop 
+1. Homepage -  Screenshot_25-9-2025_105040_.png
+2. About Us -  Screenshot_25-9-2025_105150_.png
+3. Courses - Screenshot_25-9-2025_10519
+4. Fee Calculator - Screenshot_25-9-2025_105614_.p
+5. Contacts -   Screenshot_25-9-2025_11142_.
 
 *(Add tablet and mobile screenshots for full Part 2 evidence.)*
 
