@@ -99,6 +99,32 @@ The estimated budget for this project is as follows:
 
 .This budget reflects realistic costs based on research and will ensure that Daily Grand has a professional online presence.
 
+
+Wbsite screenshot
+
+Screenshot (Deskop)
+
+1. Home page [Screenshot_25-9-2025_105040_.png]
+2. About page [Screenshot_25-9-2025_105150_.png]
+3. Lifestyle page [Screenshot_25-9-2025_10519_.png]
+4. Contact page [Screenshot_25-9-2025_105614_.png]
+5. News page  [Screenshot_25-9-2025_11142_.png]
+
+Screenshot (Tablet)
+1. Home page  [Screenshot_25-9-2025_143158_.png]
+2. About page  [Screenshot_25-9-2025_144412_.png]
+3. News page[Screenshot_25-9-2025_144728_.png]
+4. Contact page [Screenshot_25-9-2025_144844_.png]
+5. Lifestyle page  [Screenshot_25-9-2025_14485_.png]
+
+Screenshot (Phone)
+1. Home page [Screenshot_25-9-2025_145547_.png]
+2.About page [Screenshot_25-9-2025_145332_.png]
+3. News page [Screenshot_25-9-2025_145434_.jpeg]
+4. Lifestyle page [Screenshot_25-9-2025_14549_.jpeg]
+5. Contact page [Screenshot_25-9-2025_145352_.png]
+
+
 References
 
 Brown, L. (2021). The State of Local News in 2021. News Research Institute. https://www.newsresearchinstitute.org/reports/state-of-local-news (23 August 2025).
@@ -109,17 +135,9 @@ Mozilla Developer Network. (2023). CSS: Cascading Style Sheets. https://develope
 
 Smith, J. (2020). Web Development Essentials. Tech Press. W3Schools. (2023). HTML Tutorial. https://www.w3schools.com/html/ (Accessed: 26 August 2025).
 
-Wbsite screenshot
 
-Screenshot_27-8-2025_83431_.jpeg
 
-Screenshot_27-8-2025_83638_.jpeg
 
-Screenshot_27-8-2025_83638_.jpeg
 
-Screenshot_27-8-2025_83852_.jpeg
 
-Screenshot_27-8-2025_8387_.jpeg
-
-https://github.com/P6000/ASIGNMENT/edit/master
 
