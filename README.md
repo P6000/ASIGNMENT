@@ -1,135 +1,125 @@
-# Empowering The Nation Website and Mobile Application
+Student Name : Phumelelo Tau Student Number: ST10492650 module name:Web Development
 
-# Module: WED5112  
-# Student Name: TAU PHUMELELO  
-# Student Number: ST10492650  
+Website Project Proposal
 
+Organization Overview Name: Daily Grand Daily Grand was founded in 2015 as a local news and lifestyle platform aimed at providing the community with timely updates, engaging stories, and valuable resources. Initially started as a small blog by a group of local journalists, it has evolved into a trusted source of information for residents. Over the years, Daily Grand has covered significant local events, community initiatives, and lifestyle topics, establishing itself as a go-to platform for residents seeking to stay informed about their community (Johnson, 2022).
+Mission and Vision Statements: .Mission Statement: To inform, engage, and inspire our community through quality journalism and storytelling.
 
-## 1. Introduction
+.Vision Statement: To be the leading source of local news and lifestyle content, fostering a well-informed and connected community.
 
-Empowering the Nation is a community-driven skills development initiative based in Johannesburg, South Africa. The project provides short, affordable, and practical training courses for domestic workers and gardeners, covering areas like cooking, cleaning, childcare, gardening, and household maintenance (South African Skills Development, 2025; Domestic Worker Training Programs, 2025). The goal is to enhance employability, confidence, and community upliftment (Brown, 2021; Johnson, 2022).  
+Target Audience: .Our target audience includes residents aged 18-65, community leaders, and anyone interested in staying updated on local news, events, and lifestyle topics. This demographic is diverse, encompassing students, working professionals, and retirees who seek reliable information about their community (Brown, 2021).
 
+Website Goals and Objectives Specific Goals: .Increase website traffic by 40% within six months: By implementing effective SEO strategies and promoting our content through social media, we aim to attract more visitors to our website (Smith, 2020).
+.Generate leads for local businesses through advertising partnerships: We plan to create advertising opportunities for local businesses, helping them reach our audience while generating revenue for Daily Grand.
 
-## 2. Mission
+.Provide valuable information to the community: Our goal is to enhance community engagement by offering informative articles, event coverage, and resources that meet the needs of our audience (W3Schools, 2023).
 
--Empowerment: Equip learners with technical and soft skills (Smith, 2020).  
--Accessibility: Training opportunities are affordable and available to all (South African Skills Development, 2025).  
--Practical Impact: Focus on hands-on training applicable immediately (Domestic Worker Training Programs, 2025).  
--Community Upliftment: Support socio-economic development (Johnson, 2022).  
+Key Performance Indicators (KPIs):
 
+.Number of unique visitors per month: This metric will help us gauge the effectiveness of our marketing efforts and content strategy.
 
+.Conversion rate of visitors to newsletter sign-ups: Tracking how many visitors subscribe to our newsletter will indicate the value they find in our content.
 
-## 3. Vision
+.Engagement metrics: We will monitor average time spent on the site and pages per visit to assess how well our content resonates with readers (Mozilla Developer Network, 2023).
 
-- To become South Africa’s leading community-based training provider (Smith, 2020).  
-- Ensure domestic workers and gardeners are respected professionals (Brown, 2021).  
-- Break the cycle of poverty through accessible training (South African Skills Development, 2025).  
-- Expand programs through digital and mobile learning (Mozilla Developer Network, 2023).  
+Current Website Analysis (if applicable)
+Strengths:
 
- 
+.The current website has a user-friendly interface that allows visitors to easily navigate through different sections. It provides essential information about local events and news, making it a valuable resource for the community (Johnson, 2022). Weaknesses:
 
-## 4. Website Pages
+.However, the website lacks mobile responsiveness, which is crucial as more user's access content via smartphones. Additionally, some content is outdated, failing to reflect recent community developments and events (Brown, 2021). Areas for Improvement:
 
-## 4.1 Homepage
-- Welcoming banner, mission and vision summary, call-to-action buttons.
+.We aim to enhance the website's design and functionality to improve the user experience. This includes making the site mobile-friendly, updating content regularly, and ensuring that all information is current and relevant (Smith, 2020).
 
-## 4.2 About Us
-- Story of Empowering the Nation, founder, values, and goals.
+Proposed Website Features and Functionality
+Essential Features:
 
-## 4.3 Courses
-- Cooking & Nutrition Basics, Household Cleaning, Childcare & First Aid, Gardening & Landscaping.
+.Homepage: The homepage will feature the latest news articles, highlighted stories, and a section for upcoming events, providing visitors with a quick overview of what’s happening in the community.
 
-## 4.4 Fee Calculator
-- Interactive tool to calculate course costs, VAT, and discounts.
+.About Us: This page will detail Daily Grand's mission, vision, and history, helping visitors understand the organization’s purpose and values.
 
-## 4.5 Contact/Enquiry
-- Contact form, email, phone number, physical location, map (future).
+.News Section: Articles will be categorized into sections such as Local News, Lifestyle, Health, and Events, allowing users to easily find content that interests them.
 
+.Contact Page: A contact form will enable visitors to reach out with inquiries, feedback, or story suggestions, fostering community interaction.
 
+.Advertising Section: This page will provide information for local businesses on how to advertise with Daily Grand, including pricing and audience reach.
 
-## 5. Wireframes
+.Desired Functionality: The website will include a contact form with client-side validation to ensure that submissions are complete and accurate. (W3Schools, 2023).
 
-## 6. Screenshots Desktop 
-1. Homepage -  Screenshot_25-9-2025_105040_.png
-2. About Us -  Screenshot_25-9-2025_105150_.png
-3. Courses - Screenshot_25-9-2025_10519
-4. Fee Calculator - Screenshot_25-9-2025_105614_.p
-5. Contacts -   Screenshot_25-9-2025_11142_.
+Design and User Experience
+Overall Design Aesthetic:
 
-*(Add tablet and mobile screenshots for full Part 2 evidence.)*
+.The website will have a modern and clean design, reflecting our commitment to professionalism and community engagement. The aesthetic will be visually appealing while ensuring that content is easy to read and navigate (Mozilla Developer Network, 2023). Color Scheme:
 
+.We propose a color palette of blue, white, and orange. Blue conveys trust and reliability, white provides clarity and simplicity, and orange adds a vibrant touch that captures attention.
 
-## 7. Changelog (Part 1 → Part 2)
+Typography:
 
-## Date: 25 September 2025  
+.We will use 'Aptos' for headings to create a strong visual hierarchy and 'Arial' for body text to ensure readability across devices. Layout and Design:
 
-1. ## File/Folder Structure
-   - Created `css/` folder, added `style.css`.  
-   - Linked all HTML files to external stylesheet.
- (Mozilla Developer Network, 2023).  
+.white space to enhance readability and user experience. User Experience Considerations:
 
+.We will focus on easy navigation, fast loading times, and accessibility features to ensure all users can access the content. This includes optimizing images and using alt text for screen readers (Smith, 2020).
 
-2. ## Navigation
-   - Fixed `<nav>` menu for all pages.  
+. Wireframe And Sitemap
 
-3. ## Styling Update
-   - Applied green colour scheme.  
-   - Updated typography (font family, size, weight, line-height).  
-   - Flexbox layout for header, nav, and footer.  
-   - Added spacing, borders, shadows for readability.
-     (Mozilla Developer Network, 2023).  
- 
+Technical Requirements
+Hosting and Domain Name: .We will use Miss Tau for reliable hosting, ensuring that the website is always accessible. The domain name www.dailygrand.com will be registered to establish a professional online presence.
 
-4. ## Responsive Design
-   - Media queries for desktop, tablet, mobile.  
-   - Layout adapts seamlessly to all screen sizes.  
-   - Font sizes and spacing adjust using relative units.  
-   - Images are responsive using `max-width` and `height:auto`.
-     (W3Schools. (2023). 
+Programming Languages and Frameworks:
 
-5. ## Pseudo-Classes
-   - Hover effects for nav links and buttons.  
+.The website will be built using HTML for structure, CSS for styling, and JavaScript for interactivity. This combination will allow us to create a responsive and engaging user experience (W3Schools, 2023)
 
-6. ## Fee Calculator Feature
-   - Planned implementation noted for Part 2.  
+7 Timeline and Milestones
 
-7. ## GitHub Commits
-   - Descriptive commit messages recorded.  
+Project Timeline:
 
-8. ## References
-   - Added credible sources (see below).  
+.Week 1: Research and planning, including gathering content and defining the website structure.
 
+.Week 2: Design wireframes and gather content from various sources, including interviews and community feedback.
 
+.Week 3: Develop the HTML structure for the website, ensuring that all pages are linked correctly. Implement CSS styling and JavaScript
 
-## 8. References
+.functionality to enhance the user experience also submitted first proposal.
 
-1. Brown, L. (2021). The State of Local News in 2021. News Research Institute.
-   Avalaible online at :  
-  https://www.newsresearchinstitute.org/reports/state-of-local-news
- (Accessed 23 August 2025).  
+.Week 4: Conduct thorough testing and debugging to ensure cross-browser compatibility and fix any issues.
 
-2. Johnson, A. (2022). 'The Importance of Local News', Community Journalism, 5(2), pp. 45-50.
-   Avalaible online at : 
-   https://www.communityjournalism.com/articles/importance-of-local-news
-(Accessed 23 August 2025).  
+.Week 5: Final review and submission of the project, including all documentation and the GitHub repository link.
 
-3. Mozilla Developer Network. (2023). CSS: Cascading Style Sheets.
-   Avalaible online at :
-   (https://developer.mozilla.org/en-US/docs/Web/CSS) (Accessed 24 August 2025).  
+Estimated Budget
+The estimated budget for this project is as follows:
 
-4. Smith, J. (2020). Web Development Essentials. Tech Press.  (Accessed 26 August 2025).  
+.Domain Registration: R15/year
 
+.Hosting: R100/year
 
-5. W3Schools. (2023). HTML Tutorial. Avalaible online at : https://www.w3schools.com/html/
-   (Accessed 26 August 2025).  
+.Development Tools: R50 (for any software or tools needed)
 
-6. South African Skills Development. (2025). Skills Portal. Avalaible online at :
-   https://www.skillsportal.co.za ( Accessed 25 September)
+.Total: R165
 
-7. Domestic Worker Training Programs. (2025). Avalaible online at :
-    https://www.domesticworkers.org  ( Accessed 25 September)
+.This budget reflects realistic costs based on research and will ensure that Daily Grand has a professional online presence.
 
+References
 
+Brown, L. (2021). The State of Local News in 2021. News Research Institute. https://www.newsresearchinstitute.org/reports/state-of-local-news (23 August 2025).
 
-## 9. GitHub Repository
-[Link to Repository](https://github.com/P6000/part-1/)
+Johnson, A. (2022). 'The Importance of Local News', Community Journalism, 5(2), pp. 45-50. https://www.communityjournalism.com/articles/importance-of-local-news (Accessed: 23 August 2025).
+
+Mozilla Developer Network. (2023). CSS: Cascading Style Sheets. https://developer.mozilla.org/en-US/docs/Web/CSS (Accessed: 24 August 2025).
+
+Smith, J. (2020). Web Development Essentials. Tech Press. W3Schools. (2023). HTML Tutorial. https://www.w3schools.com/html/ (Accessed: 26 August 2025).
+
+Wbsite screenshot
+
+Screenshot_27-8-2025_83431_.jpeg
+
+Screenshot_27-8-2025_83638_.jpeg
+
+Screenshot_27-8-2025_83638_.jpeg
+
+Screenshot_27-8-2025_83852_.jpeg
+
+Screenshot_27-8-2025_8387_.jpeg
+
+https://github.com/P6000/ASIGNMENT/edit/master
+
