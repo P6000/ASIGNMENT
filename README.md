@@ -12,10 +12,10 @@ Empowering the Nation is a community-driven skills development initiative based 
 
 ## 2. Mission
 
-## Empowerment:  Equip learners with technical and soft skills (Smith, 2020).  
-## Accessibility: Training opportunities are affordable and available to all (South African Skills Development, 2025).  
-## Practical Impact: Focus on hands-on training applicable immediately (Domestic Worker Training Programs, 2025).  
-## Community Upliftment: Support socio-economic development (Johnson, 2022).  
+## Empowerment - Equip learners with technical and soft skills (Smith, 2020).  
+## Accessibility - Training opportunities are affordable and available to all (South African Skills Development, 2025).  
+## Practical Impact - Focus on hands-on training applicable immediately (Domestic Worker Training Programs, 2025).  
+## Community Upliftment - Support socio-economic development (Johnson, 2022).  
 
 
 
@@ -25,6 +25,8 @@ Empowering the Nation is a community-driven skills development initiative based 
 - Ensure domestic workers and gardeners are respected professionals (Brown, 2021).  
 - Break the cycle of poverty through accessible training (South African Skills Development, 2025).  
 - Expand programs through digital and mobile learning (Mozilla Developer Network, 2023).  
+
+ 
 
 
 
@@ -58,7 +60,6 @@ Empowering the Nation is a community-driven skills development initiative based 
 
 *(Add tablet and mobile screenshots for full Part 2 evidence.)*
 
----
 
 ## 7. Changelog (Part 1 → Part 2)
 
@@ -66,7 +67,9 @@ Empowering the Nation is a community-driven skills development initiative based 
 
 1. ## File/Folder Structure
    - Created `css/` folder, added `style.css`.  
-   - Linked all HTML files to external stylesheet.  
+   - Linked all HTML files to external stylesheet.
+ (Mozilla Developer Network, 2023).  
+
 
 2. ## Navigation
    - Fixed `<nav>` menu for all pages.  
@@ -75,13 +78,16 @@ Empowering the Nation is a community-driven skills development initiative based 
    - Applied green colour scheme.  
    - Updated typography (font family, size, weight, line-height).  
    - Flexbox layout for header, nav, and footer.  
-   - Added spacing, borders, shadows for readability.  
+   - Added spacing, borders, shadows for readability.
+     (Mozilla Developer Network, 2023).  
+ 
 
 4. ## Responsive Design
    - Media queries for desktop, tablet, mobile.  
    - Layout adapts seamlessly to all screen sizes.  
    - Font sizes and spacing adjust using relative units.  
-   - Images are responsive using `max-width` and `height:auto`.  
+   - Images are responsive using `max-width` and `height:auto`.
+     (W3Schools. (2023). 
 
 5. ## Pseudo-Classes
    - Hover effects for nav links and buttons.  
@@ -99,21 +105,33 @@ Empowering the Nation is a community-driven skills development initiative based 
 
 ## 8. References
 
-1. Brown, L. (2021). The State of Local News in 2021. News Research Institute.  
+1. Brown, L. (2021). The State of Local News in 2021. News Research Institute.
+   Avalaible online at :  
   https://www.newsresearchinstitute.org/reports/state-of-local-news
- (Accessed: 23 August 2025).  
+ (Accessed 23 August 2025).  
 
-2. Johnson, A. (2022). 'The Importance of Local News', Community Journalism, 5(2), pp. 45-50.  
+2. Johnson, A. (2022). 'The Importance of Local News', Community Journalism, 5(2), pp. 45-50.
+   Avalaible online at : 
    https://www.communityjournalism.com/articles/importance-of-local-news
-(Accessed: 23 August 2025).  
-4. Mozilla Developer Network. (2023). CSS: Cascading Style Sheets.  
-   [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) (Accessed: 24 August 2025).  
-5. Smith, J. (2020). Web Development Essentials. Tech Press.  
-6. W3Schools. (2023). HTML Tutorial. [https://www.w3schools.com/html/](https://www.w3schools.com/html/) (Accessed: 26 August 2025).  
-7. South African Skills Development. (2025). Skills Portal. [https://www.skillsportal.co.za](https://www.skillsportal.co.za)  
-8. Domestic Worker Training Programs. (2025). [https://www.domesticworkers.org](https://www.domesticworkers.org)  
+(Accessed 23 August 2025).  
 
----
+3. Mozilla Developer Network. (2023). CSS: Cascading Style Sheets.
+   Avalaible online at :
+   (https://developer.mozilla.org/en-US/docs/Web/CSS) (Accessed 24 August 2025).  
+
+4. Smith, J. (2020). Web Development Essentials. Tech Press.  (Accessed 26 August 2025).  
+
+
+5. W3Schools. (2023). HTML Tutorial. Avalaible online at : https://www.w3schools.com/html/
+   (Accessed 26 August 2025).  
+
+6. South African Skills Development. (2025). Skills Portal. Avalaible online at :
+   https://www.skillsportal.co.za ( Accessed 25 September)
+
+7. Domestic Worker Training Programs. (2025). Avalaible online at :
+    https://www.domesticworkers.org  ( Accessed 25 September)
+
+
 
 ## 9. GitHub Repository
 [Link to Repository](https://github.com/P6000/part-1/)
