@@ -12,10 +12,10 @@ Empowering the Nation is a community-driven skills development initiative based 
 
 ## 2. Mission
 
-## Empowerment - Equip learners with technical and soft skills (Smith, 2020).  
-## Accessibility - Training opportunities are affordable and available to all (South African Skills Development, 2025).  
-## Practical Impact - Focus on hands-on training applicable immediately (Domestic Worker Training Programs, 2025).  
-## Community Upliftment - Support socio-economic development (Johnson, 2022).  
+-Empowerment: Equip learners with technical and soft skills (Smith, 2020).  
+-Accessibility: Training opportunities are affordable and available to all (South African Skills Development, 2025).  
+-Practical Impact: Focus on hands-on training applicable immediately (Domestic Worker Training Programs, 2025).  
+-Community Upliftment: Support socio-economic development (Johnson, 2022).  
 
 
 
@@ -27,8 +27,6 @@ Empowering the Nation is a community-driven skills development initiative based 
 - Expand programs through digital and mobile learning (Mozilla Developer Network, 2023).  
 
  
-
-
 
 ## 4. Website Pages
 
