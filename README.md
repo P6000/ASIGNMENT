@@ -100,7 +100,62 @@ The estimated budget for this project is as follows:
 .This budget reflects realistic costs based on research and will ensure that Daily Grand has a professional online presence.
 
 
-Wbsite screenshot
+## Part 2 — CSS Styling & Responsive Design
+
+## Date: 26 September 2025
+
+## Changelog
+
+1. ## External CSS Stylesheet
+
+-Created style.css and linked to all HTML pages (Mozilla Developer Network, 2023; W3Schools, 2023).
+
+-Applied CSS reset for consistent styling across browsers (Mozilla Developer Network, 2023; W3Schools, 2023).
+2. ## Base Styling
+
+-Set font-family, font-size, line-height, colors, and background (Mozilla Developer Network, 2023).
+
+3. ## Header & Navigation
+
+-Added hover and focus effects for accessibility (Mozilla Developer Network, 2023).
+
+4. ## Typography
+
+-Styled headings, paragraphs, and lists for readability (Mozilla Developer Network, 2023).
+
+5. ## Articles & Sections
+
+-Background, padding, margin, border-radius, and box-shadow applied (Mozilla Developer Network, 2023).
+
+-Hover effects added to articles (Mozilla Developer Network, 2023; W3Schools, 2023).
+
+-Lifestyle tips list styled with checkmark bullets.
+
+6. ## Forms
+
+-Styled inputs, textarea, and buttons with hover/focus effects (W3Schools, 2023).
+
+-Ensured full responsiveness for mobile devices.
+
+7. ## Featured Brand Section
+
+-Styled #daily-brand section and ensured responsive image scaling (Mozilla Developer Network, 2023).
+
+8. ## Footer
+
+-Consistent colors, text alignment, and padding applied (Mozilla Developer Network, 2023).
+
+9. ## Responsive Design
+
+-Media queries implemented for tablet (≤992px) and mobile (≤600px) (Mozilla Developer Network, 2023; W3Schools, 2023).
+
+-Adjusted navigation, main content, article padding, font size, and images for smaller screens.
+
+10. ## Testing
+
+Verified all pages on multiple screen sizes using browser developer tools (Mozilla Developer Network, 2023).
+
+11. ## Website screenshot
 
 Screenshot (Deskop)
 
@@ -117,7 +172,7 @@ Screenshot (Tablet)
 4. Contact page [Screenshot_25-9-2025_144844_.png]
 5. Lifestyle page  [Screenshot_25-9-2025_14485_.png]
 
-Screenshot (Phone)
+Screenshot (Mobile)
 1. Home page [Screenshot_25-9-2025_145547_.png]
 2.About page [Screenshot_25-9-2025_145332_.png]
 3. News page [Screenshot_25-9-2025_145434_.jpeg]
@@ -125,17 +180,23 @@ Screenshot (Phone)
 5. Contact page [Screenshot_25-9-2025_145352_.png]
 
 
+## References
+
 References
 
-Brown, L. (2021). The State of Local News in 2021. News Research Institute. https://www.newsresearchinstitute.org/reports/state-of-local-news (23 August 2025).
+Brown, L. (2021). The State of Local News in 2021. News Research Institute. Available at: https://www.newsresearchinstitute.org/reports/state-of-local-news
+ (Accessed: 23 August 2025).
 
-Johnson, A. (2022). 'The Importance of Local News', Community Journalism, 5(2), pp. 45-50. https://www.communityjournalism.com/articles/importance-of-local-news (Accessed: 23 August 2025).
+Johnson, A. (2022). 'The Importance of Local News', Community Journalism, 5(2), pp. 45-50. Available at: https://www.communityjournalism.com/articles/importance-of-local-news
+ (Accessed: 23 August 2025).
 
-Mozilla Developer Network. (2023). CSS: Cascading Style Sheets. https://developer.mozilla.org/en-US/docs/Web/CSS (Accessed: 24 August 2025).
+Mozilla Developer Network. (2023). CSS: Cascading Style Sheets. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS
+ (Accessed: 24 August 2025; 25 September 2025).
 
-Smith, J. (2020). Web Development Essentials. Tech Press. W3Schools. (2023). HTML Tutorial. https://www.w3schools.com/html/ (Accessed: 26 August 2025).
+Smith, J. (2020). Web Development Essentials. Tech Press.
 
-
+W3Schools. (2023). HTML and CSS Tutorials. Available at: https://www.w3schools.com/html/
+ (Accessed: 26 August 2025 ; 25 September 2025).
 
 
 /P6000/ASIGNMENT/tree/main
