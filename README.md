@@ -158,7 +158,7 @@ The estimated budget for this project is as follows:
    - Media queries for desktop, tablet, mobile.  
    - Layout adapts seamlessly to all screen sizes.  
    - Font sizes and spacing adjust using relative units.  
-   - Images are responsive using max-width and height:auto.  
+   - Images/Screenshot are responsive using max-width and height:auto.  
    -Adjusted navigation, main content, article padding, font size, and images for smaller screens.
 (Mozilla Developer Network, 2023).
 
@@ -221,5 +221,4 @@ Screenshot (Mobile)
 
 P6000/ASIGNMENT
 
-T/edit/master/
 
