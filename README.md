@@ -113,7 +113,10 @@ The estimated budget for this project is as follows:
 1. ## External CSS Stylesheet
 
 -Created style.css and linked to all HTML pages (Mozilla Developer Network, 2023; W3Schools, 2023).
+
 -Applied CSS reset for consistent styling across browsers (Mozilla Developer Network, 2023; W3Schools, 2023).
+
+- Comments are also added on HTML files.
 
 2. ## Base Styling
    - Applied green colour scheme.  
@@ -163,7 +166,9 @@ The estimated budget for this project is as follows:
 (Mozilla Developer Network, 2023).
 
   9. ## Pseudo-Classes
-   - Hover effects for nav links and buttons.  
+   - Hover effects for nav links and buttons.
+     10. ## Comment
+     -comment are also added.
 
 
 10. ## Testing
